@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.41e2f7b8.chunk.css",
+    "main.js": "./static/js/main.091cbf8c.chunk.js",
+    "main.js.map": "./static/js/main.091cbf8c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f7379305.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f7379305.js.map",
+    "static/css/2.6326594c.chunk.css": "./static/css/2.6326594c.chunk.css",
+    "static/js/2.474de000.chunk.js": "./static/js/2.474de000.chunk.js",
+    "static/js/2.474de000.chunk.js.map": "./static/js/2.474de000.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.292abe6747c757d25d62529e82ad9546.js": "./precache-manifest.292abe6747c757d25d62529e82ad9546.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.6326594c.chunk.css.map": "./static/css/2.6326594c.chunk.css.map",
+    "static/css/main.41e2f7b8.chunk.css.map": "./static/css/main.41e2f7b8.chunk.css.map",
+    "static/js/2.474de000.chunk.js.LICENSE.txt": "./static/js/2.474de000.chunk.js.LICENSE.txt",
+    "static/media/img.sass": "./static/media/Koleso.b96f78e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7379305.js",
+    "static/css/2.6326594c.chunk.css",
+    "static/js/2.474de000.chunk.js",
+    "static/css/main.41e2f7b8.chunk.css",
+    "static/js/main.091cbf8c.chunk.js"
+  ]
+}
