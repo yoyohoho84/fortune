@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.8dca1494.chunk.css",
-    "main.js": "./static/js/main.605ee756.chunk.js",
-    "main.js.map": "./static/js/main.605ee756.chunk.js.map",
+    "main.css": "./static/css/main.d0904b0e.chunk.css",
+    "main.js": "./static/js/main.b3336691.chunk.js",
+    "main.js.map": "./static/js/main.b3336691.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f7379305.js",
     "runtime-main.js.map": "./static/js/runtime-main.f7379305.js.map",
     "static/css/2.6326594c.chunk.css": "./static/css/2.6326594c.chunk.css",
     "static/js/2.2b4286a5.chunk.js": "./static/js/2.2b4286a5.chunk.js",
     "static/js/2.2b4286a5.chunk.js.map": "./static/js/2.2b4286a5.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b7c52d9fded07575001cc7abef2e0805.js": "./precache-manifest.b7c52d9fded07575001cc7abef2e0805.js",
+    "precache-manifest.e0d2c8d5a985634b4dfd6e4f914d4252.js": "./precache-manifest.e0d2c8d5a985634b4dfd6e4f914d4252.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.6326594c.chunk.css.map": "./static/css/2.6326594c.chunk.css.map",
-    "static/css/main.8dca1494.chunk.css.map": "./static/css/main.8dca1494.chunk.css.map",
+    "static/css/main.d0904b0e.chunk.css.map": "./static/css/main.d0904b0e.chunk.css.map",
     "static/js/2.2b4286a5.chunk.js.LICENSE.txt": "./static/js/2.2b4286a5.chunk.js.LICENSE.txt",
     "static/media/img.sass": "./static/media/Koleso_s_prizami_2.0c440f3e.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.f7379305.js",
     "static/css/2.6326594c.chunk.css",
     "static/js/2.2b4286a5.chunk.js",
-    "static/css/main.8dca1494.chunk.css",
-    "static/js/main.605ee756.chunk.js"
+    "static/css/main.d0904b0e.chunk.css",
+    "static/js/main.b3336691.chunk.js"
   ]
 }
